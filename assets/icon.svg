@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#ffd60a"/>
+  <path d="M256 40l44 104 108-60-36 116 116 28-104 52 72 96-120-12 0 112-80-88-80 88 0-112-120 12 72-96-104-52 116-28-36-116 108 60z" fill="#e63946" stroke="#111" stroke-width="16" stroke-linejoin="round"/>
+  <ellipse cx="256" cy="262" rx="120" ry="84" fill="#fff" stroke="#111" stroke-width="16"/>
+  <path d="M200 330l-30 70 80-62" fill="#fff" stroke="#111" stroke-width="16" stroke-linejoin="round"/>
+  <text x="256" y="292" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="92" text-anchor="middle" fill="#111">POW</text>
+</svg>
